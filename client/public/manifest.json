@@ -1,0 +1,18 @@
+{
+  "short_name": "DISHA",
+  "name": "DISHA - Hospital Navigation & Digital Queue Platform",
+  "description": "Accessible, multilingual patient navigation and queue management for government hospitals",
+  "icons": [
+    {
+      "src": "/favicon.svg",
+      "type": "image/svg+xml",
+      "sizes": "192x192 512x512"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#F5F9F8",
+  "theme_color": "#087F70",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "lang": "en-IN"
+}

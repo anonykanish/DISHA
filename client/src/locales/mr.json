@@ -1,0 +1,128 @@
+{
+  "app": {
+    "name": "दिशा (DISHA)",
+    "tagline": "तुमचे रुग्णालय, सोपे आणि सुलभ.",
+    "demoNotice": "सरकारी रुग्णालयांसाठी प्रात्यक्षिक प्रोटोटाइप",
+    "emergency": "तातडीची मदत (SOS)",
+    "offlineNotice": "तुम्ही ऑफलाइन आहात. जतन केलेले नकाशे उपलब्ध आहेत."
+  },
+  "nav": {
+    "home": "मुख्यपृष्ठ",
+    "map": "रुग्णालय नकाशा",
+    "queue": "माझी रांग (टोकन)",
+    "journey": "माझी भेट",
+    "profile": "माहिती",
+    "staffLogin": "कर्मचारी लॉगिन",
+    "startVisit": "सुरू करा",
+    "demoMode": "डेमो पहा",
+    "accessibility": "सुलभता",
+    "voice": "आवाज सहाय्य",
+    "facilities": "सुविधा"
+  },
+  "landing": {
+    "heroTitle": "तुमचा रुग्णालय प्रवास, आता सोपा.",
+    "heroSubtitle": "रस्ता शोधा, तुमची रांग ट्रॅक करा आणि स्वतःच्या भाषेत सहज उपचार पूर्ण करा.",
+    "howItWorks": "दिशा कसे कार्य करते",
+    "step1Title": "१. जलद नोंदणी",
+    "step1Desc": "भाषा आणि भेटीचे कारण निवडा. आधार कार्डाची गरज नाही.",
+    "step2Title": "२. स्मार्ट अंतर्गत नकाशा",
+    "step2Desc": "लिफ्ट आणि व्हीलचेअर मार्गासह वळणावळणावर मार्गदर्शन.",
+    "step3Title": "३. थेट रांग ट्रॅकिंग",
+    "step3Desc": "तुमच्या पुढे किती रुग्ण आहेत आणि अंदाजे वेळ त्वरित समजेल.",
+    "step4Title": "४. सुलभ उपचार",
+    "step4Desc": "डॉक्टरांच्या तपासणीपासून औषधे मिळेपर्यंत सर्व मदत."
+  },
+  "dashboard": {
+    "welcome": "नमस्कार",
+    "visitStatus": "स्थिती",
+    "inProgress": "सुरू आहे",
+    "completed": "पूर्ण",
+    "nowServing": "सध्याचा टोकन",
+    "yourToken": "तुमचा टोकन",
+    "patientsAhead": "तुमच्या आधीचे रुग्ण",
+    "estimatedWait": "अंदाजे प्रतीक्षा वेळ",
+    "estimatedNote": "प्रतीक्षा वेळ हा डॉक्टरांच्या तपासणीनुसार अंदाज आहे.",
+    "nextDestination": "पुढील ठिकाण",
+    "floor": "मजला",
+    "block": "ब्लॉक",
+    "room": "खोली",
+    "navigateNow": "रस्ता पहा",
+    "viewQueue": "रांग पहा",
+    "cardNavigate": "रुग्णालय नकाशा",
+    "cardQueue": "माझी रांग",
+    "cardJourney": "प्रवास टप्पे",
+    "cardVoice": "आवाज सहाय्य",
+    "cardFacilities": "सुविधा शोधा",
+    "cardHelp": "मदत केंद्र",
+    "cardAccessibility": "सुलभता",
+    "cardAnnouncements": "सूचना",
+    "smartWait": "स्मार्ट प्रतीक्षा सूचना",
+    "smartWaitText": "तुमच्याकडे सुमारे {{mins}} मिनिटे आहेत. जवळच पिण्याचे पाणी आणि शौचालय आहे."
+  },
+  "navigation": {
+    "title": "रुग्णालय अंतर्गत मार्गदर्शन",
+    "demoHospital": "दिशा डेमो सरकारी रुग्णालय (केवळ डेमोसाठी)",
+    "groundFloor": "तळमजला (Ground)",
+    "firstFloor": "१ ला मजला (1st Floor)",
+    "secondFloor": "२ रा मजला (2nd Floor)",
+    "startPoint": "सध्याचे स्थान",
+    "destinationPoint": "जाण्याचे ठिकाण",
+    "wheelchairToggle": "व्हीलचेअर मार्ग (फक्त लिफ्ट)",
+    "calculateRoute": "मार्ग शोधा",
+    "totalDistance": "एकूण अंतर",
+    "estimatedWalk": "चालण्याचा वेळ",
+    "stepByStep": "टप्प्याटप्प्याने मार्गदर्शन",
+    "readAloud": "वाचून दाखवा",
+    "scanCheckpoint": "QR स्कॅन करा"
+  },
+  "queue": {
+    "title": "थेट रांग स्थिती",
+    "statusWaiting": "प्रतीक्षेत",
+    "statusCalled": "टोकन बोलावले! काउंटरवर जा",
+    "counter": "काउंटर",
+    "requestRecovery": "सुटलेल्या टोकनसाठी विनंती",
+    "crowdStatus": "गर्दीची पातळी",
+    "alert2Ahead": "फक्त २ रुग्ण पुढे आहेत! जवळच थांबा.",
+    "alertCalled": "तुमचे टोकन बोलावले आहे! कृपया काउंटर {{counter}} वर जा."
+  },
+  "voice": {
+    "title": "दिशा आवाज सहाय्यक",
+    "listening": "ऐकत आहे... बोला",
+    "idle": "बोलण्यासाठी माइक दाबा",
+    "repeat": "पुन्हा ऐका",
+    "stop": "थांबवा"
+  },
+  "accessibility": {
+    "title": "सुलभता पर्याय",
+    "largeText": "मोठे फॉन्ट",
+    "highContrast": "हाय कॉन्ट्रास्ट",
+    "simpleMode": "सोपा मोड (ज्येष्ठ नागरिकांसाठी)"
+  },
+  "facilities": {
+    "title": "रुग्णालय सुविधा शोधा",
+    "searchPlaceholder": "पाणी, शौचालय, लिफ्ट, कॅन्टीन शोधा...",
+    "water": "पिण्याचे पाणी",
+    "toilet": "शौचालय",
+    "lift": "लिफ्ट",
+    "helpdesk": "चौकशी केंद्र"
+  },
+  "caregiver": {
+    "title": "केअरगिव्हर कनेक्ट",
+    "createLink": "लिंक तयार करा",
+    "revokeLink": "रद्द करा"
+  },
+  "feedback": {
+    "title": "अभिप्राय",
+    "submit": "पाठवा"
+  },
+  "admin": {
+    "title": "कर्मचारी पोर्टल",
+    "callNext": "पुढील रुग्ण बोलवा",
+    "markCompleted": "पूर्ण"
+  },
+  "demo": {
+    "panelTitle": "परीक्षक नियंत्रण फलक",
+    "advanceQueue": "रांग पुढे न्या",
+    "resetDemo": "रीसेट करा"
+  }
+}

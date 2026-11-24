@@ -1,0 +1,20 @@
+{
+  "name": "disha-hospital-platform",
+  "version": "1.0.0",
+  "description": "DISHA - Accessible, Multilingual, Digital Queue and Navigation for Hospitals",
+  "scripts": {
+    "dev": "concurrently -k -n \"server,client\" -c \"cyan,magenta\" \"npm --prefix server run dev\" \"npm --prefix client run dev\"",
+    "build": "npm --prefix server run build && npm --prefix client run build",
+    "seed": "npm --prefix server run seed",
+    "test": "npm --prefix server test",
+    "start": "node server/dist/server.js"
+  },
+  "devDependencies": {
+    "concurrently": "^9.2.5"
+  },
+  "dependencies": {
+    "dotenv": "^18.0.10",
+    "jsonwebtoken": "^9.0.3",
+    "sql.js": "^1.17.0"
+  }
+}

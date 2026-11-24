@@ -1,0 +1,128 @@
+{
+  "app": {
+    "name": "দিশা (DISHA)",
+    "tagline": "আপনার হাসপাতাল, সহজ ও স্বচ্ছন্দ।",
+    "demoNotice": "সরকারি হাসপাতালের জন্য প্রদর্শন প্রোটোটাইপ",
+    "emergency": "জরুরি সহায়তা (SOS)",
+    "offlineNotice": "আপনি অফলাইনে আছেন। সংরক্ষিত মানচিত্র উপলব্ধ।"
+  },
+  "nav": {
+    "home": "হোম",
+    "map": "হাসপাতালের মানচিত্র",
+    "queue": "আমার সিরিয়াল",
+    "journey": "আমার যাত্রা",
+    "profile": "প্রোফাইল",
+    "staffLogin": "স্টাফ লগইন",
+    "startVisit": "শুরু করুন",
+    "demoMode": "ডেমো দেখুন",
+    "accessibility": "সহজলভ্যতা",
+    "voice": "ভয়েস গাইড",
+    "facilities": "সুবিধাসমূহ"
+  },
+  "landing": {
+    "heroTitle": "হাসপাতাল যাত্রা, এখন অনেক সহজ।",
+    "heroSubtitle": "পথ খুঁজুন, আপনার সিরিয়াল ট্র্যাক করুন এবং নিজের ভাষায় সহজেই চিকিৎসা সম্পন্ন করুন।",
+    "howItWorks": "দিশা কীভাবে কাজ করে",
+    "step1Title": "১. দ্রুত নিবন্ধন",
+    "step1Desc": "ভাষা এবং পরিদর্শনের কারণ নির্বাচন করুন। আধার কার্ডের প্রয়োজন নেই।",
+    "step2Title": "২. স্মার্ট অভ্যন্তরীণ মানচিত্র",
+    "step2Desc": "লিফট ও হুইলচেয়ারের সহজ পথ নির্দেশনা।",
+    "step3Title": "৩. লাইভ কিউ ট্র্যাকিং",
+    "step3Desc": "আপনার আগে কতজন রোগী আছেন এবং আনুমানিক অপেক্ষার সময় জানুন।",
+    "step4Title": "৪. সহজে সেবা সম্পন্ন",
+    "step4Desc": "ডাক্তারের পরামর্শ থেকে ল্যাব টেস্ট এবং ওষুধ সংগ্রহ পর্যন্ত সহায়তা।"
+  },
+  "dashboard": {
+    "welcome": "স্বাগতম",
+    "visitStatus": "যাত্রার অবস্থা",
+    "inProgress": "চলমান",
+    "completed": "সম্পন্ন",
+    "nowServing": "চলতি টোকেন",
+    "yourToken": "আপনার টোকেন",
+    "patientsAhead": "আপনার আগের রোগী",
+    "estimatedWait": "আনুমানিক অপেক্ষার সময়",
+    "estimatedNote": "অপেক্ষার সময় ডাক্তার দেখার সময়ের ওপর নির্ভরশীল অনুমান।",
+    "nextDestination": "পরবর্তী গন্তব্য",
+    "floor": "তলা",
+    "block": "ব্লক",
+    "room": "রুম",
+    "navigateNow": "পথ দেখুন",
+    "viewQueue": "সিরিয়াল দেখুন",
+    "cardNavigate": "হাসপাতাল মানচিত্র",
+    "cardQueue": "আমার কিউ",
+    "cardJourney": "যাত্রা পথ",
+    "cardVoice": "ভয়েস সহায়তা",
+    "cardFacilities": "সুবিধা খুঁজুন",
+    "cardHelp": "জিজ্ঞাসাবাদ কেন্দ্র",
+    "cardAccessibility": "সহজলভ্যতা",
+    "cardAnnouncements": "বিজ্ঞপ্তি",
+    "smartWait": "স্মার্ট অপেক্ষার পরামর্শ",
+    "smartWaitText": "আপনার হাতে প্রায় {{mins}} মিনিট সময় আছে। কাছেই পানীয় জল ও শৌচাগার রয়েছে।"
+  },
+  "navigation": {
+    "title": "হাসপাতাল অভ্যন্তরীণ দিকনির্দেশনা",
+    "demoHospital": "দিশা ডেমো সরকারি হাসপাতাল (শুধুমাত্র ডেমো)",
+    "groundFloor": "নিচতলা (Ground)",
+    "firstFloor": "১ম তলা (1st Floor)",
+    "secondFloor": "২য় তলা (2nd Floor)",
+    "startPoint": "বর্তমান অবস্থান",
+    "destinationPoint": "গন্তব্য",
+    "wheelchairToggle": "হুইলচেয়ার সহায়ক পথ (শুধু লিফট)",
+    "calculateRoute": "পথ দেখান",
+    "totalDistance": "মোট দূরত্ব",
+    "estimatedWalk": "হাঁটার সময়",
+    "stepByStep": "ধাপে ধাপে দিকনির্দেশ",
+    "readAloud": "পড়ে শোনান",
+    "scanCheckpoint": "QR স্ক্যান করুন"
+  },
+  "queue": {
+    "title": "লাইভ কিউ অবস্থা",
+    "statusWaiting": "অপেক্ষমান",
+    "statusCalled": "টোকেন ডাকা হয়েছে! কাউন্টারে যান",
+    "counter": "কাউন্টার",
+    "requestRecovery": "মিস হওয়া টোকেনের আবেদন করুন",
+    "crowdStatus": "ভিড়ের স্তর",
+    "alert2Ahead": "আপনার আগে মাত্র ২ জন আছেন! কাছেই থাকুন।",
+    "alertCalled": "আপনার টোকেন ডাকা হয়েছে! কাউন্টার {{counter}}-এ যান।"
+  },
+  "voice": {
+    "title": "দিশা ভয়েস সহকারী",
+    "listening": "শুনছি... কথা বলুন",
+    "idle": "কথা বলতে মাইক চাপুন",
+    "repeat": "পুনরায় শুনুন",
+    "stop": "বন্ধ করুন"
+  },
+  "accessibility": {
+    "title": "সহজলভ্যতা অপশন",
+    "largeText": "বড় লেখা",
+    "highContrast": "উচ্চ বৈসাদৃশ্য",
+    "simpleMode": "সহজ মোড (বয়স্কদের জন্য)"
+  },
+  "facilities": {
+    "title": "হাসপাতাল সুবিধাসমূহ",
+    "searchPlaceholder": "জল, শৌচাগার, লিফট, ক্যান্টিন খুঁজুন...",
+    "water": "পানীয় জল",
+    "toilet": "শৌচাগার",
+    "lift": "লিফট",
+    "helpdesk": "সহায়তা কেন্দ্র"
+  },
+  "caregiver": {
+    "title": "কেয়ারগিভার কানেক্ট",
+    "createLink": "লিংক তৈরি করুন",
+    "revokeLink": "বাতিল করুন"
+  },
+  "feedback": {
+    "title": "মতামত",
+    "submit": "জমা দিন"
+  },
+  "admin": {
+    "title": "স্টাফ পোর্টাল",
+    "callNext": "পরবর্তী রোগী ডাকুন",
+    "markCompleted": "সম্পন্ন"
+  },
+  "demo": {
+    "panelTitle": "বিচারক কন্ট্রোল প্যানেল",
+    "advanceQueue": "কিউ ১ ধাপ এগিয়ে নিন",
+    "resetDemo": "রিসেট করুন"
+  }
+}

@@ -1,0 +1,47 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+  html {
+    scroll-behavior: smooth;
+    -webkit-tap-highlight-color: transparent;
+  }
+
+  body {
+    @apply antialiased text-base selection:bg-teal-500 selection:text-white;
+  }
+}
+
+/* High Contrast Mode Styling */
+.high-contrast {
+  --tw-bg-opacity: 1;
+}
+
+.high-contrast * {
+  border-color: #000 !important;
+}
+
+.dark .high-contrast * {
+  border-color: #5CD6BD !important;
+}
+
+/* Reduced Motion Mode */
+@media (prefers-reduced-motion: reduce) {
+  *, ::before, ::after {
+    animation-duration: 0.01ms !important;
+    animation-iteration-count: 1 !important;
+    transition-duration: 0.01ms !important;
+    scroll-behavior: auto !important;
+  }
+}
+
+.motion-reduce * {
+  animation: none !important;
+  transition: none !important;
+}
+
+/* Safe Area Inset for Mobile Notch & Home Bar */
+.pb-safe {
+  padding-bottom: env(safe-area-inset-bottom, 0px);
+}

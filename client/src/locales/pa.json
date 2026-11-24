@@ -1,0 +1,130 @@
+{
+  "app": {
+    "name": "ਦਿਸ਼ਾ (DISHA)",
+    "tagline": "ਤੁਹਾਡਾ ਹਸਪਤਾਲ, ਸੌਖਾ ਅਤੇ ਸਰਲ।",
+    "demoNotice": "ਸਰਕਾਰੀ ਹਸਪਤਾਲਾਂ ਲਈ ਪ੍ਰਦਰਸ਼ਨ ਪ੍ਰੋਟੋਟਾਈਪ",
+    "emergency": "ਐਮਰਜੈਂਸੀ ਮਦਦ (SOS)",
+    "offlineNotice": "ਤੁਸੀਂ ਔਫਲਾਈਨ ਹੋ। ਸੁਰੱਖਿਅਤ ਨਕਸ਼ੇ ਉਪਲਬਧ ਹਨ।"
+  },
+  "nav": {
+    "home": "ਹੋਮ",
+    "map": "ਹਸਪਤਾਲ ਦਾ ਨਕਸ਼ਾ",
+    "queue": "ਮੇਰੀ ਕਤਾਰ",
+    "journey": "ਮੇਰੀ ਫੇਰੀ",
+    "profile": "ਪ੍ਰੋਫਾਈਲ",
+    "staffLogin": "ਸਟਾਫ ਲੌਗਇਨ",
+    "startVisit": "ਸ਼ੁਰੂ ਕਰੋ",
+    "demoMode": "ਡੈਮੋ ਵੇਖੋ",
+    "accessibility": "ਪਹੁੰਚਯੋਗਤਾ",
+    "voice": "ਆਵਾਜ਼ ਗਾਈਡ",
+    "facilities": "ਸਹੂਲਤਾਂ"
+  },
+  "landing": {
+    "heroTitle": "ਤੁਹਾਡੀ ਹਸਪਤਾਲ ਯਾਤਰਾ, ਹੁਣ ਬਹੁਤ ਆਸਾਨ।",
+    "heroSubtitle": "ਰਸਤਾ ਲੱਭੋ, ਆਪਣਾ ਟੋਕਨ ਟਰੈਕ ਕਰੋ ਅਤੇ ਆਪਣੀ ਭਾਸ਼ਾ ਵਿੱਚ ਬਿਨਾਂ ਪਰੇਸ਼ਾਨੀ ਇਲਾਜ ਪੂਰਾ ਕਰੋ।",
+    "howItWorks": "ਦਿਸ਼ਾ ਕਿਵੇਂ ਕੰਮ ਕਰਦੀ ਹੈ",
+    "howItWorksSubtitle": "ਬਜ਼ੁਰਗਾਂ ਅਤੇ ਪਹਿਲੀ ਵਾਰ ਆਏ ਮਰੀਜ਼ਾਂ ਲਈ ਆਸਾਨ ਪ੍ਰਣਾਲੀ।",
+    "step1Title": "1. ਤੁਰੰਤ ਰਜਿਸਟ੍ਰੇਸ਼ਨ",
+    "step1Desc": "ਆਪਣੀ ਭਾਸ਼ਾ ਅਤੇ ਕਾਰਨ ਚੁਣੋ। ਕੋਈ ਆਧਾਰ ਕਾਰਡ ਦੀ ਲੋੜ ਨਹੀਂ।",
+    "step2Title": "2. ਸਮਾਰਟ ਨਕਸ਼ਾ",
+    "step2Desc": "ਲਿਫਟ ਅਤੇ ਵ੍ਹੀਲਚੇਅਰ ਰਸਤੇ ਦੇ ਨਾਲ ਕਦਮ-ਦਰ-ਕਦਮ ਰਸਤਾ।",
+    "step3Title": "3. ਲਾਈਵ ਕਤਾਰ ਟਰੈਕਿੰਗ",
+    "step3Desc": "ਅੱਗੇ ਕਿੰਨੇ ਮਰੀਜ਼ ਹਨ ਅਤੇ ਕਿੰਨਾ ਸਮਾਂ ਲੱਗੇਗਾ ਤੁਰੰਤ ਜਾਣੋ।",
+    "step4Title": "4. ਆਸਾਨ ਇਲਾਜ",
+    "step4Desc": "ਡਾਕਟਰ ਜਾਂਚ ਤੋਂ ਲੈ ਕੇ ਦਵਾਈ ਮਿਲਣ ਤੱਕ ਲਗਾਤਾਰ ਮਾਰਗਦਰਸ਼ਨ।"
+  },
+  "dashboard": {
+    "welcome": "ਜੀ ਆਇਆਂ ਨੂੰ",
+    "visitStatus": "ਸਥਿਤੀ",
+    "inProgress": "ਚੱਲ ਰਿਹਾ ਹੈ",
+    "completed": "ਮੁਕੰਮਲ",
+    "nowServing": "ਮੌਜੂਦਾ ਟੋਕਨ",
+    "yourToken": "ਤੁਹਾਡਾ ਟੋਕਨ",
+    "patientsAhead": "ਤੁਹਾਡੇ ਤੋਂ ਅੱਗੇ ਮਰੀਜ਼",
+    "estimatedWait": "ਅੰਦਾਜ਼ਨ ਉਡੀਕ ਸਮਾਂ",
+    "estimatedNote": "ਉਡੀਕ ਸਮਾਂ ਡਾਕਟਰ ਦੀ ਜਾਂਚ 'ਤੇ ਨਿਰਭਰ ਅੰਦਾਜ਼ਾ ਹੈ।",
+    "nextDestination": "ਅਗਲੀ ਥਾਂ",
+    "floor": "ਮੰਜ਼ਿਲ",
+    "block": "ਬਲਾਕ",
+    "room": "ਕਮਰਾ",
+    "navigateNow": "ਰਸਤਾ ਵੇਖੋ",
+    "viewQueue": "ਕਤਾਰ ਵੇਖੋ",
+    "shortcuts": "ਹਸਪਤਾਲ ਸੇਵਾਵਾਂ",
+    "cardNavigate": "ਹਸਪਤਾਲ ਨਕਸ਼ਾ",
+    "cardQueue": "ਮੇਰੀ ਕਤਾਰ",
+    "cardJourney": "ਸਫ਼ਰ ਮਾਰਗ",
+    "cardVoice": "ਆਵਾਜ਼ ਸਹਾਇਤਾ",
+    "cardFacilities": "ਸਹੂਲਤਾਂ",
+    "cardHelp": "ਪੁੱਛਗਿੱਛ ਕੇਂਦਰ",
+    "cardAccessibility": "ਪਹੁੰਚਯੋਗਤਾ",
+    "cardAnnouncements": "ਸੂਚਨਾਵਾਂ",
+    "smartWait": "ਸਮਾਰਟ ਉਡੀਕ ਸੁਝਾਅ",
+    "smartWaitText": "ਤੁਹਾਡੇ ਕੋਲ ਲਗਭਗ {{mins}} ਮਿੰਟ ਹਨ। ਪੀਣ ਵਾਲਾ ਪਾਣੀ 40 ਮੀਟਰ ਦੂਰ ਹੈ।"
+  },
+  "navigation": {
+    "title": "ਹਸਪਤਾਲ ਅੰਦਰੂਨੀ ਰਸਤਾ",
+    "demoHospital": "ਦਿਸ਼ਾ ਡੈਮੋ ਸਰਕਾਰੀ ਹਸਪਤਾਲ (ਸਿਰਫ਼ ਡੈਮੋ ਲਈ)",
+    "groundFloor": "ਜ਼ਮੀਨੀ ਮੰਜ਼ਿਲ (Ground)",
+    "firstFloor": "ਪਹਿਲੀ ਮੰਜ਼ਿਲ (1st Floor)",
+    "secondFloor": "ਦੂਜੀ ਮੰਜ਼ਿਲ (2nd Floor)",
+    "startPoint": "ਮੌਜੂਦਾ ਸਥਿਤੀ",
+    "destinationPoint": "ਜਾਣ ਵਾਲੀ ਥਾਂ",
+    "wheelchairToggle": "ਵ੍ਹੀਲਚੇਅਰ ਰਸਤਾ (ਸਿਰਫ਼ ਲਿਫਟ)",
+    "calculateRoute": "ਰਸਤਾ ਲੱਭੋ",
+    "totalDistance": "ਕੁੱਲ ਦੂਰੀ",
+    "estimatedWalk": "ਤੁਰਨ ਦਾ ਸਮਾਂ",
+    "stepByStep": "ਕਦਮ-ਦਰ-ਕਦਮ ਹਦਾਇਤਾਂ",
+    "readAloud": "ਬੋਲ ਕੇ ਸੁਣਾਓ",
+    "scanCheckpoint": "QR ਸਕੈਨ ਕਰੋ"
+  },
+  "queue": {
+    "title": "ਕਤਾਰ ਸਥਿਤੀ",
+    "statusWaiting": "ਉਡੀਕ ਕਰ ਰਹੇ ਹੋ",
+    "statusCalled": "ਟੋਕਨ ਬੁਲਾਇਆ ਗਿਆ! ਕਾਊਂਟਰ 'ਤੇ ਜਾਓ",
+    "counter": "ਕਾਊਂਟਰ",
+    "requestRecovery": "ਛੁੱਟੇ ਟੋਕਨ ਲਈ ਬੇਨਤੀ ਕਰੋ",
+    "crowdStatus": "ਭੀੜ ਦਾ ਪੱਧਰ",
+    "alert2Ahead": "ਸਿਰਫ਼ 2 ਮਰੀਜ਼ ਅੱਗੇ ਹਨ! ਕਮਰੇ ਨੇੜੇ ਰਹੋ।",
+    "alertCalled": "ਤੁਹਾਡਾ ਟੋਕਨ ਬੁਲਾ ਲਿਆ ਗਿਆ ਹੈ! ਕਿਰਪਾ ਕਰਕੇ ਕਾਊਂਟਰ {{counter}} 'ਤੇ ਪਹੁੰਚੋ।"
+  },
+  "voice": {
+    "title": "ਦਿਸ਼ਾ ਆਵਾਜ਼ ਸਹਾਇਕ",
+    "listening": "ਸੁਣ ਰਿਹਾ ਹਾਂ... ਬੋਲੋ",
+    "idle": "ਬੋਲਣ ਲਈ ਮਾਈਕ ਦਬਾਓ",
+    "repeat": "ਦੁਹਰਾਓ",
+    "stop": "ਰੋਕੋ"
+  },
+  "accessibility": {
+    "title": "ਪਹੁੰਚਯੋਗਤਾ ਸੈਟਿੰਗਜ਼",
+    "largeText": "ਵੱਡੇ ਅੱਖਰ",
+    "highContrast": "ਹਾਈ ਕੰਟਰਾਸਟ ਮੋਡ",
+    "simpleMode": "ਸਧਾਰਨ ਮੋਡ (ਬਜ਼ੁਰਗਾਂ ਲਈ)"
+  },
+  "facilities": {
+    "title": "ਸਹੂਲਤਾਂ ਲੱਭੋ",
+    "searchPlaceholder": "ਪਾਣੀ, ਪਖਾਨੇ, ਲਿਫਟ, ਕੰਟੀਨ ਖੋਜੋ...",
+    "water": "ਪੀਣ ਵਾਲਾ ਪਾਣੀ",
+    "toilet": "ਪਖਾਨੇ",
+    "lift": "ਲਿਫਟ",
+    "helpdesk": "ਮਦਦ ਕੇਂਦਰ"
+  },
+  "caregiver": {
+    "title": "ਕੇਅਰਗਿਵਰ ਕਨੈਕਟ",
+    "createLink": "ਲਿੰਕ ਬਣਾਓ",
+    "revokeLink": "ਲਿੰਕ ਰੱਦ ਕਰੋ"
+  },
+  "feedback": {
+    "title": "ਫੀਡਬੈਕ",
+    "submit": "ਜਮ੍ਹਾ ਕਰੋ"
+  },
+  "admin": {
+    "title": "ਹਸਪਤਾਲ ਸਟਾਫ ਪੋਰਟਲ",
+    "callNext": "ਅਗਲਾ ਮਰੀਜ਼ ਬੁਲਾਓ",
+    "markCompleted": "ਮੁਕੰਮਲ"
+  },
+  "demo": {
+    "panelTitle": "ਜੱਜ ਕੰਟਰੋਲ ਪੈਨਲ",
+    "advanceQueue": "ਕਤਾਰ ਅੱਗੇ ਵਧਾਓ",
+    "resetDemo": "ਰੀਸੈਟ ਕਰੋ"
+  }
+}
